@@ -1,0 +1,7 @@
+{
+  "name": "gmailapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
